@@ -8,7 +8,7 @@
 
 1. **本声明适用于 Tikeds 品牌旗下全部软件、服务、网站、服务器及相关分发渠道**，包括但不限于：
    - Planet Launcher（行星启动器，Windows / Android）
-   - PureMC 纯净服务器（mc.tikeds.bbroot.com）
+   - PureMC 纯净服务器（mct.tikeds.bbroot.com）
    - Tikeds 官网（tikeds.bbroot.com 及下属各站点页面）
    - 上述产品在各平台发布的安装包、更新包与附属文件
 2. **Tikeds 旗下所有软件与服务不为中国大陆地区使用、下载与提供服务**。
