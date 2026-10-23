@@ -1,51 +1,49 @@
-# Tikeds 声明报告
+# Tikeds Declaration Report
 
-> **核心声明：不为中国大陆使用，所有解释权归 Tikeds 所有。**
+> **Core statement: This declaration applies to all software and services under the Tikeds brand. All rights of interpretation are reserved by Tikeds.**
 
 ---
 
-## 一、总则
+## I. General
 
-1. **本声明适用于 Tikeds 品牌旗下全部软件、服务、网站、服务器及相关分发渠道**，包括但不限于：
-   - Planet Launcher（行星启动器，Windows / Android）
-   - PureMC 纯净服务器（mct.tikeds.bbroot.com）
-   - Tikeds 官网（tikeds.bbroot.com 及下属各站点页面）
-   - 上述产品在各平台发布的安装包、更新包与附属文件
-2. **Tikeds 旗下所有软件与服务不为中国大陆地区使用、下载与提供服务**。
-3. **本声明的一切解释权归 Tikeds 所有**。
+1. This declaration applies to all software, services, websites, servers and distribution channels under the **Tikeds** brand, including but not limited to:
+   - Planet Launcher (Windows / Android)
+   - PureMC Server (mct.tikeds.bbroot.com)
+   - Tikeds official website (tikeds.bbroot.com and its sub-sites)
+   - Installers, update packages and attached files distributed on each platform
+2. All software and services under Tikeds are available to users worldwide through official channels.
+3. All rights of interpretation of this declaration are reserved by Tikeds.
 
-## 二、适用范围与边界
+## II. Service Scope
 
-| 对象 | 是否提供服务 | 说明 |
+| Users | Service | Notes |
 |---|---|---|
-| 中国大陆地区用户 | 不提供 | 不在中国大陆提供下载、安装、更新、技术支持与相关服务 |
-| 中国大陆以外地区用户 | 提供 | 按官方渠道正常使用 |
-| 中国大陆境内服务器节点 | 不部署 | 产品与服务不面向中国大陆境内部署运营 |
+| All regions (including Mainland China) | Provided | Download, install, update and support are available through official channels |
 
-> 说明：上述"中国大陆地区"指中华人民共和国大陆地区（不含港澳台）。
+> No regional restriction applies. Products and services can be used normally worldwide.
 
-## 三、语言策略
+## III. Language Policy
 
-- **默认语言为英语**，所有站点首次访问一律以英文展示。
-- 各站点提供**导航栏下拉全语言切换**：
-  - Planet Launcher 官网：英语 / 繁體中文 / 日本語 / 한국어（中文仅提供繁体）
-  - Tikeds 总站：英语 / 简体中文 / 日本語 / 한국어
-  - PureMC 服务器官网：英语 / 简体中文 / 日本語 / 한국어
-- 语言选择按用户偏好记忆，不影响服务可用性判定。
+- **Language follows the browser language by default**; visitors may switch manually at any time.
+- A **full-language dropdown** is available in the navigation bar on every site:
+  - Planet Launcher official website: English / 简体中文 / 日本語 / 한국어
+  - Tikeds official website: English / 简体中文 / 日本語 / 한국어
+  - PureMC server website: English / 简体中文 / 日本語 / 한국어
+- Language preference is remembered per visitor; it does not affect service availability.
 
-## 四、权利与解释
+## IV. Rights and Interpretation
 
-1. **所有解释权归 Tikeds 所有**：包括但不限于本声明的条款解释、服务范围的界定、语言与分发策略的调整、以及任何未列出事项的最终解释。
-2. Tikeds 保留随时修改、更新本声明的权利，更新后的声明自发布之日起生效。
-3. 因用户违反本声明使用产品或服务而产生的任何后果，Tikeds 不承担相关责任。
+1. **All rights of interpretation are reserved by Tikeds**, including but not limited to the interpretation of these terms, the definition of the service scope, adjustments to language and distribution policy, and the final interpretation of any matter not listed.
+2. Tikeds reserves the right to revise or update this declaration at any time; the revised declaration takes effect upon publication.
+3. Tikeds shall not be liable for any consequence arising from a user's use of the products or services in violation of this declaration.
 
-## 五、联系方式
+## V. Contact
 
-- QQ：2055338363
-- 官网：tikeds.bbroot.com
+- QQ: 2055338363
+- Website: tikeds.bbroot.com
 
 ---
 
-*Tikeds · 保留所有权利*
+*Tikeds · All rights reserved.*
 
-*本声明最终解释权归 Tikeds 所有。*
+*This declaration is subject to the final interpretation of Tikeds.*
